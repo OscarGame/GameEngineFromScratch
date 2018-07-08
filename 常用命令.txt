@@ -1,0 +1,10 @@
+Git
+
+
+
+CPP
+下面基于家里面的电脑
+1，使用clang来构建,进入build后
+D:\Vulkan\My3DEngine\GameEngineFromScratch\build>
+cmake .. -G"Visual Studio 14 2015" -T"LLVM-vs2014"
+
